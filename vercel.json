@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/": {
+      "methods": [
+        "GET"
+      ],
+      "src": "api/test.ts"
+    }
+  }
+}
